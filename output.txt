@@ -1,0 +1,5 @@
+Number of words: 13
+Number of Characters (without spaces): 63
+Average word length: 4
+Maximum word length: 12
+Minimum word length: 1
